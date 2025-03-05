@@ -5,7 +5,6 @@
 # The mods are in testing, the parts may or may not fit right. I am not responsible for any damage this may cause.
 
 # BOM:
-Some parts will not be mentioned because they come with the mercury kit.
 | Type | Quantity | Link |
 | --- | --- | --- |
 | Shoulder skrews 30mm long 5mm shaft with M3 thread ([check picture](Images/ShoulderSkrews.png) ) | 8 | [Aliexpress](https://www.aliexpress.com/item/1005004802215831.html) |
