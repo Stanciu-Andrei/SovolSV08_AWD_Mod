@@ -8,8 +8,8 @@
 | Type | Quantity | Link |
 | --- | --- | --- |
 | Shoulder skrews 30mm long 5mm shaft with M3 thread ([check picture](Images/ShoulderSkrews.png) ) | 8 | [Aliexpress](https://www.aliexpress.com/item/1005004802215831.html) |
-| M5 1mm shims (or just 8 with stock idlers ) | 32 | M5x8x1 100pcs [Nindejin](https://vi.aliexpress.com/item/4000174460068.html) |
-| F695-2RS bearings (or just 8 with stock idlers) | 32 | [Fushi](https://www.aliexpress.com/item/32850989216.html) |
+| M5 1mm shims | 32 | M5x8x1 100pcs [Nindejin](https://vi.aliexpress.com/item/4000174460068.html) |
+| F695-2RS bearings | 32 | [Fushi](https://www.aliexpress.com/item/32850989216.html) |
 | M5x30 dowel pins | 10 | [Nindejin](https://vi.aliexpress.com/item/1005002308655979.html)  |
 | M4 Heatset insert M4 X D6.0 X L4.0 | 16 | [Aliexpress](https://vi.aliexpress.com/item/4000232925592.html)  |
 | M4x40 screws | 8 | [Nindejin](https://vi.aliexpress.com/item/4000142028043.html) |
