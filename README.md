@@ -2,8 +2,6 @@
 
 <img src="Images/Gantry.png">
 
-# The mods are in testing, the parts may or may not fit right. I am not responsible for any damage this may cause.
-
 # BOM:
 | Type | Quantity | Link |
 | --- | --- | --- |
