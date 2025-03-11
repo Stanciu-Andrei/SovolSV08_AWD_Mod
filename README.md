@@ -2,8 +2,6 @@
 
 <img src="Images/Gantry.png">
 
-# The mods are in testing, the parts may or may not fit right. I am not responsible for any damage this may cause.
-
 # BOM:
 | Type | Quantity | Link |
 | --- | --- | --- |
@@ -29,3 +27,6 @@
 | --- | --- | --- |
 | Motors with minimum 37mm shaft instead of the motors above | 4 | [Aliexpress](https://vi.aliexpress.com/item/1005007500807396.html) [Fabreeko](https://www.fabreeko.com/products/ldo-42sth48-2504ahs55-nema-17-motor-high-temp?_pos=3&_psq=mot&_ss=e&_v=1.0) [RatRig](https://ratrig.com/electronics/motors/nema-17-stepper-motor-ht-48mm-1-8-76oz-in-35mm-shaft.html)|
 | 695-2RS bearings | 4 | [Fushi](https://vi.aliexpress.com/item/1005003141257945.html) |
+
+##
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C510OWNY)
