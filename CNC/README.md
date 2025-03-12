@@ -6,4 +6,5 @@
 | D14x M4 (5pcs) Length 10mm | 4 |[Aliexpress](https://www.aliexpress.us/item/3256805776299657.html) |
 | m3x20 (10pcs per lot) | 6 | [Aliexpress](https://www.aliexpress.us/item/2251832625574286.html) |
 | m3x30 (10pcs per lot) | 6 | [Aliexpress](https://www.aliexpress.us/item/2251832625574286.html) |
-| M3x30 screws | 14 | [Nindejin](https://vi.aliexpress.com/item/4000142028043.html) |
+| M3x30 screws | 14 | [Nindejin](https://www.aliexpress.com/item/4000142028043.html) |
+| M3 30pcs 8mm | 24 | [Nindejin](https://www.aliexpress.com/item/4000239264456.html) |
